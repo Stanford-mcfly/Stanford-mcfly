@@ -1,0 +1,22 @@
+name: LeetCode Metrics
+on:
+  schedule:
+    - cron: "0 * * * *"  # Runs every hour
+  workflow_dispatch:
+
+jobs:
+  leetcode:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate LeetCode Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.leetcode.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_leetcode: yes
+          plugin_leetcode_user: mrconquerer
+          plugin_leetcode_sections: solved, skills, recent
+          plugin_leetcode_limit_skills: 10
+          plugin_leetcode_limit_recent: 5
+          plugin_leetcode_ignored_skills: fundamental
