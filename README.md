@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![LeetCode Stats](metrics.plugin.leetcode.svg)
+
+
 <!--
 **Stanford-mcfly/Stanford-mcfly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
