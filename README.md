@@ -4,7 +4,6 @@
 
 ### 📅 GitHub Contribution Calendar
 
-#### Half-year
 ![Half-year](./metrics.plugin.isocalendar.svg)
 
 ### 🔥 Most Used Languages
@@ -22,6 +21,10 @@
 ### 🧠 Mildly Interesting Habits
 
 ![Habits Facts](./metrics.plugin.habits.facts.svg)
+
+### 👥 Contributors Summary (All Repositories)
+
+![Contributors](./metrics.plugin.contributors.contributions.svg)
 
 ### 🧑‍💻 Peek on my Leetcode 
 
