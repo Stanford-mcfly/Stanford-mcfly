@@ -1,0 +1,21 @@
+name: Classic Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"  # every Sunday
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.classic.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, repositories
+          plugin_lines: yes
