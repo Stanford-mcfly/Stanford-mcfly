@@ -1,0 +1,19 @@
+name: Code Snippet of the Day
+on:
+  schedule:
+    - cron: "0 9 * * *"  
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Code snippet of the day
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.code.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_code: yes
+          plugin_code_languages: javascript, typescript , python, java, csharp, cpp, go, ruby, rust, php, kotlin
+          plugin_code_load: 400

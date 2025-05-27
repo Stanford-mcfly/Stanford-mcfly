@@ -30,3 +30,8 @@
 
 ![LeetCode Stats](metrics.plugin.leetcode.svg)
 
+### 📝 Code Snippet of the Day
+
+![Code Snippet](./metrics.plugin.code.svg)
+
+
