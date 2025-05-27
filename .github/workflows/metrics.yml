@@ -7,7 +7,15 @@ on:
 jobs:
   leetcode:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
     steps:
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y docker.io jq
+
       - name: Generate LeetCode Metrics
         uses: lowlighter/metrics@latest
         with:
