@@ -1,30 +1,25 @@
 name: LeetCode Metrics
 on:
   schedule:
-    - cron: "0 * * * *"  # Runs every hour
+    - cron: "0 * * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write  # ✅ Required to write SVG to the repo
 
 jobs:
   leetcode:
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      packages: write
     steps:
-      - name: Install dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y docker.io jq
-
       - name: Generate LeetCode Metrics
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.leetcode.svg
-          token: NOT_NEEDED
+          token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_leetcode: yes
           plugin_leetcode_user: mrconquerer
           plugin_leetcode_sections: solved, skills, recent
           plugin_leetcode_limit_skills: 10
           plugin_leetcode_limit_recent: 5
-          plugin_leetcode_ignored_skills: fundamental
+          plugin_leetcode_ignored_skills: fundamental, intermediate
