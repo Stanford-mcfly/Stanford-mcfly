@@ -22,10 +22,6 @@
 
 ![Habits Facts](./metrics.plugin.habits.facts.svg)
 
-### 👥 Contributors Summary (All Repositories)
-
-![Contributors](./metrics.plugin.contributors.contributions.svg)
-
 ### 🧑‍💻 Peek on my Leetcode 
 
 ![LeetCode Stats](metrics.plugin.leetcode.svg)
@@ -34,4 +30,8 @@
 
 ![Code Snippet](./metrics.plugin.code.svg)
 
+## ♟️ Chess Stats
 
+<!--START_SECTION:chessStats-->
+
+<!--END_SECTION:chessStats-->
