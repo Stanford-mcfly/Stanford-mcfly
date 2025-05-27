@@ -19,6 +19,11 @@
 ### 📌 Indepth Analysis
 ![Indepth](metrics.plugin.languages.indepth.svg)
 
+### 🧠 Mildly Interesting Habits
+
+![Habits Facts](./metrics.plugin.habits.facts.svg)
+
+### 🧑‍💻 Peek on my Leetcode 
 
 ![LeetCode Stats](metrics.plugin.leetcode.svg)
 

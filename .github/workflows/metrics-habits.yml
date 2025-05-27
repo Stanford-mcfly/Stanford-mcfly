@@ -1,0 +1,24 @@
+name: Habits – Mildly Interesting Facts
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"  # every Sunday
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-habits-facts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Mildly Interesting Habits
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.habits.facts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+          config_timezone: Asia/Kolkata 
