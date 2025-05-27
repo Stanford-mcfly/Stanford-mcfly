@@ -18,4 +18,4 @@ jobs:
       - name: Fetch Chess.com Stats
         uses: Stanford-mcfly/chess-stats-action@main
         with:
-          CHESS_USERNAME: vijaykg  # Replace with your Chess.com username
+          CHESS_USERNAME: vijay_kg  # Replace with your Chess.com username
