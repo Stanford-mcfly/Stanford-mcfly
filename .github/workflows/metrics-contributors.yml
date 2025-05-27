@@ -1,22 +1,18 @@
-name: All Repositories – Contributors Overview
-
+name: All Contributors
 on:
   schedule:
-    - cron: "0 0 * * 0"  # Runs weekly
+    - cron: "0 0 * * 1" # every Monday
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  generate-contributors:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Contributors Metrics (All Repos)
+      - name: All contributors across repositories
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.contributors.contributions.svg
+          filename: metrics.plugin.contributors.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: repositories
+          base: ""
           plugin_contributors: yes
           plugin_contributors_contributions: yes
