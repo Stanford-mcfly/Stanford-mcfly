@@ -10,6 +10,7 @@ permissions:
 jobs:
   leetcode:
     runs-on: ubuntu-latest
+    permissions: write-all
     steps:
       - name: Generate LeetCode Metrics
         uses: lowlighter/metrics@latest
