@@ -2,6 +2,11 @@
 
 ![Metrics](./metrics.classic.svg)
 
+### 📅 GitHub Contribution Calendar
+
+#### Half-year
+![Half-year](./metrics.plugin.isocalendar.svg)
+
 ### 🔥 Most Used Languages
 ![Most Used](metrics.plugin.languages.svg)
 
