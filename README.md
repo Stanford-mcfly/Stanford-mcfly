@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there Peeps👋
+
+![Metrics](./metrics.classic.svg)
 
 ### 🔥 Most Used Languages
 ![Most Used](metrics.plugin.languages.svg)
