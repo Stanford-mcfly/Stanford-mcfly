@@ -1,11 +1,12 @@
 ## Hi there Peeps👋
 
-<p style="text-align: right; margin-top: -50px; position: relative; top: -50px;">
+<p style="text-align: right; margin-top: -50px; position: relative; top: 20px;">
   <img src="./assets/spidertocat.png" width="150" alt="Spider-Ham swinging">
 </p>
 
-
-![Metrics](./metrics.classic.svg)
+<div style="position: relative; width: 100%; height: auto;">
+  <img src="./metrics.classic.svg" alt="Metrics" style="position: relative; top: -100px; left: 0; z-index: 1; display: block;">
+</div>
 
 ### 📅 GitHub Contribution Calendar
 
