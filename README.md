@@ -1,7 +1,9 @@
-<h1 style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0;">
-  <span>Hi there Peeps👋</span>
-  <img src="./assets/spidertocat.png" alt="Spider-Tocat" style="height: 150px;"/>
-</h1>
+## Hi there Peeps👋
+
+<p style="text-align: right; margin-top: -50px; position: relative; top: -50px;">
+  <img src="./assets/spidertocat.png" width="150" alt="Spider-Ham swinging">
+</p>
+
 
 ![Metrics](./metrics.classic.svg)
 
