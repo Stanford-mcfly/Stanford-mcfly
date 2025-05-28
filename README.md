@@ -1,6 +1,10 @@
 ## Hi there Peeps👋
 
 ![Metrics](./metrics.classic.svg)
+<p align="right">
+  <img src="./assets/spidertocat.png" width="150" alt="Spider-Ham swinging">
+</p>
+
 
 ### 📅 GitHub Contribution Calendar
 
