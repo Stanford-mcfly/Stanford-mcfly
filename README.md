@@ -1,7 +1,7 @@
 ## Hi there Peeps👋
 
 <p style="text-align: right; margin-top: -50px; position: relative; top: 20px;">
-  <img src="./assets/spidertocat.png" width="150" alt="Spider-Ham swinging">
+  <img src="./assets/spidertocat.png" width="150" alt="Spider-Ham swinging" align="right">
 </p>
 
 <div style="position: relative; width: 100%; height: auto;">
