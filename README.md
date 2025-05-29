@@ -43,11 +43,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1362 | 1152 | 669 |
+| Current | 1362 | 1153 | 669 |
 | Best | 1431 | 1185 | 882 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| drrubes | **vijay_kg** | checkmated ❌ | 28/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/8/k7/8/5P2/pQ6/7K/8 b - - 2 62">Link</a> | Blitz |
+| **vijay_kg** | benjaminralston | win 🥇 | 28/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/pp3p1k/5Brp/8/8/1P6/P4QPP/3R3K b - - 0 30">Link</a> | Blitz |
 | **vijay_kg** | RichardNatal | timeout ❌ | 27/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p2/6p1/1ppk3p/5P2/4K2P/6P1/3r4 w - - 0 44">Link</a> | Blitz |
 | HiroKuroki | **vijay_kg** | timeout ❌ | 27/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p5/1p4k1/p3P1p1/3P4/2Q5/P6P/6K1 b - - 0 38">Link</a> | Blitz |
 | **vijay_kg** | mrclimberdude | win 🥇 | 27/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1b6/p2R3p/6k1/6Q1/P6P/1PP5/6K1 b - - 2 41">Link</a> | Blitz |
@@ -56,7 +58,5 @@
 | mmanzinger | **vijay_kg** | timeout ❌ | 26/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/1p3pp1/4p2p/8/8/6P1/1r1rNP1P/4RK2 b - - 2 26">Link</a> | Blitz |
 | **vijay_kg** | GarajeRico | win 🥇 | 26/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1R4pk/5p1p/4p3/4n3/5P1P/1R4PK/3r4 b - - 0 37">Link</a> | Blitz |
 | **vijay_kg** | drkoz | win 🥇 | 26/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R4k1/5ppp/4p3/3pP3/2p5/4N3/4nPPP/5K2 b - - 0 29">Link</a> | Blitz |
-| **vijay_kg** | AnggunAulia | win 🥇 | 26/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b5/pp3pp1/4pk2/3n2Q1/7P/8/PPP2PP1/2K5 b - - 4 21">Link</a> | Blitz |
-| Vishalyadavvivek | **vijay_kg** | timeout ❌ | 26/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2B4p/1Kp3p1/2P2p2/P3bPk1/8/8 b - - 2 50">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
