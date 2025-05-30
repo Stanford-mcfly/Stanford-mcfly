@@ -43,11 +43,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1362 | 1153 | 669 |
+| Current | 1362 | 1161 | 669 |
 | Best | 1431 | 1185 | 882 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **vijay_kg** | Tycul | timeout ❌ | 29/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/1bq2pb1/p5pp/4p3/2p1N3/P3QN1P/2PrBPP1/3R2K1 w - - 0 23">Link</a> | Blitz |
+| nuncamasnunca | **vijay_kg** | win 🥇 | 29/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/p3kp2/1np2q2/1p2p3/4P3/1PP1Q1RP/P4PP1/3r2K1 w - - 0 29">Link</a> | Blitz |
+| **vijay_kg** | Omamba | win 🥇 | 29/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2rk1/3Nnppp/pqn1p3/1p1pP3/3P4/P2Q1N1P/1P3PP1/2R2RK1 b - - 3 19">Link</a> | Blitz |
 | drrubes | **vijay_kg** | checkmated ❌ | 28/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/8/k7/8/5P2/pQ6/7K/8 b - - 2 62">Link</a> | Blitz |
 | **vijay_kg** | benjaminralston | win 🥇 | 28/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/pp3p1k/5Brp/8/8/1P6/P4QPP/3R3K b - - 0 30">Link</a> | Blitz |
 | **vijay_kg** | RichardNatal | timeout ❌ | 27/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p2/6p1/1ppk3p/5P2/4K2P/6P1/3r4 w - - 0 44">Link</a> | Blitz |
@@ -55,8 +58,5 @@
 | **vijay_kg** | mrclimberdude | win 🥇 | 27/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1b6/p2R3p/6k1/6Q1/P6P/1PP5/6K1 b - - 2 41">Link</a> | Blitz |
 | BlunderCatHo | **vijay_kg** | timeout ❌ | 27/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r2k/3RNp2/p2n1K1p/6p1/8/8/P4PPP/8 b - - 5 31">Link</a> | Blitz |
 | **vijay_kg** | 77Jayjay | checkmated ❌ | 26/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/p7/8/K7/2qk4/q7 w - - 4 59">Link</a> | Blitz |
-| mmanzinger | **vijay_kg** | timeout ❌ | 26/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/1p3pp1/4p2p/8/8/6P1/1r1rNP1P/4RK2 b - - 2 26">Link</a> | Blitz |
-| **vijay_kg** | GarajeRico | win 🥇 | 26/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1R4pk/5p1p/4p3/4n3/5P1P/1R4PK/3r4 b - - 0 37">Link</a> | Blitz |
-| **vijay_kg** | drkoz | win 🥇 | 26/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R4k1/5ppp/4p3/3pP3/2p5/4N3/4nPPP/5K2 b - - 0 29">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
