@@ -43,11 +43,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1362 | 1161 | 669 |
+| Current | 1362 | 1169 | 669 |
 | Best | 1431 | 1185 | 882 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| airmely | **vijay_kg** | win 🥇 | 2/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6p1/4p2p/5p2/P6r/8/5k1K/8 w - - 0 52">Link</a> | Blitz |
 | **vijay_kg** | Tycul | timeout ❌ | 29/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/1bq2pb1/p5pp/4p3/2p1N3/P3QN1P/2PrBPP1/3R2K1 w - - 0 23">Link</a> | Blitz |
 | nuncamasnunca | **vijay_kg** | win 🥇 | 29/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/p3kp2/1np2q2/1p2p3/4P3/1PP1Q1RP/P4PP1/3r2K1 w - - 0 29">Link</a> | Blitz |
 | **vijay_kg** | Omamba | win 🥇 | 29/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2rk1/3Nnppp/pqn1p3/1p1pP3/3P4/P2Q1N1P/1P3PP1/2R2RK1 b - - 3 19">Link</a> | Blitz |
@@ -57,6 +58,5 @@
 | HiroKuroki | **vijay_kg** | timeout ❌ | 27/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p5/1p4k1/p3P1p1/3P4/2Q5/P6P/6K1 b - - 0 38">Link</a> | Blitz |
 | **vijay_kg** | mrclimberdude | win 🥇 | 27/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1b6/p2R3p/6k1/6Q1/P6P/1PP5/6K1 b - - 2 41">Link</a> | Blitz |
 | BlunderCatHo | **vijay_kg** | timeout ❌ | 27/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r2k/3RNp2/p2n1K1p/6p1/8/8/P4PPP/8 b - - 5 31">Link</a> | Blitz |
-| **vijay_kg** | 77Jayjay | checkmated ❌ | 26/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/p7/8/K7/2qk4/q7 w - - 4 59">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
