@@ -43,11 +43,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1368 | 1159 | 669 |
+| Current | 1368 | 1152 | 669 |
 | Best | 1431 | 1192 | 882 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| sasa666sasa | **vijay_kg** | timeout ❌ | 16/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6r/3q1p2/P1k1p2p/3p4/B2P4/2N1B1Q1/1PP3K1/R4R2 b - - 2 34">Link</a> | Blitz |
+| **vijay_kg** | kleppstad | win 🥇 | 16/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6p1/3Q3k/p6p/2P2P2/1P5P/P5PK/8 b - - 0 39">Link</a> | Blitz |
+| Soham20008 | **vijay_kg** | resigned ❌ | 16/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn4Q1/4p3/2p1k1p1/p4b2/PpqP4/8/1PP2PPP/2KR3R b - - 5 22">Link</a> | Blitz |
 | **vijay_kg** | LessStress_MoreChess | resigned ❌ | 12/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1rk1/4ppb1/p2p1np1/2pN3p/1p2P2P/1PPB4/PB1PnPPN/R3K2R w KQ - 0 14">Link</a> | Blitz |
 | nscarvelis | **vijay_kg** | timeout ❌ | 11/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6kp/p1R3p1/8/4p2b/4P2P/B5P1/6K1 b - - 0 38">Link</a> | Blitz |
 | **vijay_kg** | miciana | win 🥇 | 11/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kbQ1/1pp3pp/p2p1p2/3N4/4P3/4B3/Pq3PPP/R4RK1 b q - 1 14">Link</a> | Blitz |
@@ -55,8 +58,5 @@
 | **vijay_kg** | MrWildGanso | win 🥇 | 11/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2kbnr/p1p2ppp/8/1b6/3Qp3/4N3/PPP2PPP/RNB1K2R w KQkq - 0 10">Link</a> | Blitz |
 | **vijay_kg** | Harrin_Viknesh_S | checkmated ❌ | 11/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rk6/1p2Q3/p7/2pBp3/4P3/8/PP3PP1/K3q3 w - - 1 27">Link</a> | Rapid |
 | Harrin_Viknesh_S | **vijay_kg** | win 🥇 | 11/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p5pp/1p2p1q1/P6K/5r2/7P/8/8 w - - 8 36">Link</a> | Rapid |
-| Harrin_Viknesh_S | **vijay_kg** | win 🥇 | 11/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r4k/6n1/8/4K3/8/8/2p5/8 w - - 1 53">Link</a> | Rapid |
-| erazmus81 | **vijay_kg** | win 🥇 | 11/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/pp3pp1/1q2p2p/8/B2rQN2/3P4/PP4PP/4R2K w - - 3 22">Link</a> | Blitz |
-| s0nyONE | **vijay_kg** | win 🥇 | 11/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb3k1/ppNp1pp1/7p/2pP4/2P5/1P3Q2/P2b1PPP/2qBrKNR w - - 4 17">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
