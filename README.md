@@ -48,6 +48,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Harrin_Viknesh_S | **vijay_kg** | checkmated ❌ | 25/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7R/5pp1/5q1p/p5k1/6Q1/5PPK/7P/8 b - - 10 43">Link</a> | Blitz |
+| **vijay_kg** | Harrin_Viknesh_S | win 🥇 | 25/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Rk6/4R3/1N6/p6p/1p6/P7/1P3PPP/6K1 b - - 1 40">Link</a> | Blitz |
 | Satheesh_11 | **vijay_kg** | checkmated ❌ | 19/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1r1k/6Q1/4pn1B/p1bp4/8/2P5/PP2bPPP/R4RK1 b - - 2 19">Link</a> | Bullet |
 | **vijay_kg** | Satheesh_11 | win 🥇 | 19/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1q3r2/1p3pk1/p1n3n1/3N1b2/Q1B5/7P/PPP2PP1/2KRR3 b - - 7 25">Link</a> | Bullet |
 | Satheesh_11 | **vijay_kg** | win 🥇 | 19/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/5rp1/7p/p1p5/1n6/1P6/P1P1RPPP/q5K1 w - - 0 23">Link</a> | Bullet |
@@ -56,7 +58,5 @@
 | oliverjurado | **vijay_kg** | timeout ❌ | 11/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k2r2/ppbn2pQ/2p2rp1/8/3P4/2PB1P2/PP4PP/4R1K1 b - - 0 23">Link</a> | Blitz |
 | **vijay_kg** | chicocvenancio | timeout ❌ | 10/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4r2p/5p2/8/1p1b2PP/1P1kNK2/P3RP2/8 w - - 2 41">Link</a> | Blitz |
 | **vijay_kg** | Bakketeig | checkmated ❌ | 10/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/5p1p/p3p1p1/3p4/P1b1n1R1/5Q2/5PPP/4q1K1 w - - 0 31">Link</a> | Blitz |
-| **vijay_kg** | egga04 | win 🥇 | 10/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1r2/ppp2pk1/3pbN2/4n1B1/3QPP2/8/PP4PP/R4RK1 b - f3 0 18">Link</a> | Blitz |
-| xMisael117-052x | **vijay_kg** | resigned ❌ | 10/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k2r2/p3n3/2p1p2N/3pP3/1P6/2P3R1/P4P2/5KR1 b - - 0 36">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
