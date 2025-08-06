@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="38.945070035704475 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">431</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="39.125789618236745 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">433</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3641</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -28,8 +28,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="55.57432432432432 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">150</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="55.94481981981983 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">151</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/888</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -37,8 +37,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="44.4688489968321 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">256</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="44.642555438225976 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">257</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1894</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -87,6 +87,24 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
+                            <div class="title">Count Hills and Valleys in an Array</div>
+                            <div class="date">6 Aug 2025</div>
+                        </div>
+                    </div>
+                    <div class="field">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                        </svg>
+                        <div class="infos">
+                            <div class="title">Smallest Subarrays With Maximum Bitwise OR</div>
+                            <div class="date">6 Aug 2025</div>
+                        </div>
+                    </div>
+                    <div class="field">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                        </svg>
+                        <div class="infos">
                             <div class="title">Longest Subarray With Maximum Bitwise AND</div>
                             <div class="date">6 Aug 2025</div>
                         </div>
@@ -107,24 +125,6 @@
                         <div class="infos">
                             <div class="title">Number of Longest Increasing Subsequence</div>
                             <div class="date">4 Aug 2025</div>
-                        </div>
-                    </div>
-                    <div class="field">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                        </svg>
-                        <div class="infos">
-                            <div class="title">Range Sum Query - Mutable</div>
-                            <div class="date">4 Aug 2025</div>
-                        </div>
-                    </div>
-                    <div class="field">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                        </svg>
-                        <div class="infos">
-                            <div class="title">Delete Characters to Make Fancy String</div>
-                            <div class="date">21 Jul 2025</div>
                         </div>
                     </div>
                 </section>
