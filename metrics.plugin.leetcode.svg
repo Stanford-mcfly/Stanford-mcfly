@@ -65,7 +65,7 @@
                     <div class="topics">
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x51</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Backtracking <span class="count">x20</span></div>
-                        <div class="label advanced"><span class="dot">⬤</span> Divide and Conquer <span class="count">x9</span></div>
+                        <div class="label advanced"><span class="dot">⬤</span> Divide and Conquer <span class="count">x10</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Monotonic Stack <span class="count">x9</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Trie <span class="count">x8</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Union Find <span class="count">x8</span></div>
