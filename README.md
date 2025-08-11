@@ -48,6 +48,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Misolfa | **vijay_kg** | repetition ⏸️ | 10/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R4/8/8/4K3/2r5/2k5/8/8 b - - 26 50">Link</a> | Blitz |
 | will1am21 | **vijay_kg** | checkmated ❌ | 1/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5N2/6pn/r6k/7R/7K/8/6P1/8 b - - 0 51">Link</a> | Blitz |
 | **vijay_kg** | HotChickenJJ | resigned ❌ | 1/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6pk/1p5p/3p1p2/p7/5nPK/PP5P/8 w - - 0 38">Link</a> | Blitz |
 | **vijay_kg** | jesriel_yocat | timeout ❌ | 1/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6p1/4k2p/4P3/r2K2P1/8/7P/8 w - - 7 51">Link</a> | Blitz |
@@ -57,6 +58,5 @@
 | Harrin_Viknesh_S | **vijay_kg** | checkmated ❌ | 25/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7R/5pp1/5q1p/p5k1/6Q1/5PPK/7P/8 b - - 10 43">Link</a> | Blitz |
 | **vijay_kg** | Harrin_Viknesh_S | win 🥇 | 25/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Rk6/4R3/1N6/p6p/1p6/P7/1P3PPP/6K1 b - - 1 40">Link</a> | Blitz |
 | Satheesh_11 | **vijay_kg** | checkmated ❌ | 19/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1r1k/6Q1/4pn1B/p1bp4/8/2P5/PP2bPPP/R4RK1 b - - 2 19">Link</a> | Bullet |
-| **vijay_kg** | Satheesh_11 | win 🥇 | 19/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1q3r2/1p3pk1/p1n3n1/3N1b2/Q1B5/7P/PPP2PP1/2KRR3 b - - 7 25">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
