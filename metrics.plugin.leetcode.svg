@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="39.415207877461704 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">438</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="39.505196936542674 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">439</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3656</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -37,8 +37,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="44.92647058823529 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">260</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="45.099264705882355 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">261</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1904</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -87,6 +87,15 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
+                            <div class="title">Number of Zero-Filled Subarrays</div>
+                            <div class="date">19 Aug 2025</div>
+                        </div>
+                    </div>
+                    <div class="field">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                        </svg>
+                        <div class="infos">
                             <div class="title">Largest 3-Same-Digit Number in String</div>
                             <div class="date">14 Aug 2025</div>
                         </div>
@@ -115,15 +124,6 @@
                         </svg>
                         <div class="infos">
                             <div class="title">Reordered Power of 2</div>
-                            <div class="date">11 Aug 2025</div>
-                        </div>
-                    </div>
-                    <div class="field">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                        </svg>
-                        <div class="infos">
-                            <div class="title">Range Product Queries of Powers</div>
                             <div class="date">11 Aug 2025</div>
                         </div>
                     </div>
