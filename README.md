@@ -43,11 +43,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1352 | 1116 | 669 |
+| Current | 1352 | 1122 | 669 |
 | Best | 1431 | 1196 | 882 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| LysyVolodymyr | **vijay_kg** | win 🥇 | 25/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/pR2pppp/8/8/8/3P2PK/P6P/3q4 w kq - 0 23">Link</a> | Blitz |
 | **vijay_kg** | Badi30 | resigned ❌ | 22/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/ppN1kp2/6p1/7r/8/P6P/1PP2Pb1/2K5 w - - 0 32">Link</a> | Blitz |
 | ghonjes23 | **vijay_kg** | timeout ❌ | 22/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/3q2p1/7p/pN1pB3/Pp2Q3/1B3P1r/1PP3K1/5R2 b - - 0 34">Link</a> | Blitz |
 | Misolfa | **vijay_kg** | repetition ⏸️ | 10/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R4/8/8/4K3/2r5/2k5/8/8 b - - 26 50">Link</a> | Blitz |
@@ -57,6 +58,5 @@
 | **vijay_kg** | dropdeadbrainrot | win 🥇 | 1/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/ppp4p/2pk1r2/6p1/4N3/8/PPP1RPPP/R5K1 b - - 1 19">Link</a> | Blitz |
 | Firdausshuhaimi | **vijay_kg** | resigned ❌ | 31/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/1p1bp1b1/2p4p/Q1B3p1/4N3/5P2/P1P3PP/1R3RK1 b - - 0 21">Link</a> | Blitz |
 | **vijay_kg** | magomagalli | win 🥇 | 31/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6pk/6np/4P3/2pP2Q1/8/2P1NP2/4K3 b - - 0 37">Link</a> | Blitz |
-| Harrin_Viknesh_S | **vijay_kg** | checkmated ❌ | 25/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7R/5pp1/5q1p/p5k1/6Q1/5PPK/7P/8 b - - 10 43">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
