@@ -43,11 +43,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1352 | 1114 | 669 |
+| Current | 1352 | 1116 | 669 |
 | Best | 1431 | 1196 | 882 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| undefeated609 | **vijay_kg** | timeout ❌ | 2/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp6/2b3p1/6k1/2r5/2N5/2K3PR/5R2 b - - 6 36">Link</a> | Blitz |
+| **vijay_kg** | undefeated609 | win 🥇 | 2/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2k1Q2/ppp1n1pp/3pB2q/8/4P3/2N1P3/PP4PP/R5K1 b - - 4 16">Link</a> | Blitz |
 | **vijay_kg** | Travis227 | resigned ❌ | 28/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/p4ppp/1p2p3/3pP3/P2P4/1NR2N2/1q3PPP/6K1 w - - 2 27">Link</a> | Blitz |
 | josh-82 | **vijay_kg** | win 🥇 | 28/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q2kr/pp1b2p1/4pn1p/3p1P2/7Q/2N2nP1/PPP5/2K1RB1R w - - 1 18">Link</a> | Blitz |
 | abu_9alaan | **vijay_kg** | win 🥇 | 28/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/1p3pk1/p6p/1b2r3/8/1P5P/P2R1PP1/6K1 w - - 0 30">Link</a> | Blitz |
@@ -56,7 +58,5 @@
 | LysyVolodymyr | **vijay_kg** | win 🥇 | 25/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/pR2pppp/8/8/8/3P2PK/P6P/3q4 w kq - 0 23">Link</a> | Blitz |
 | **vijay_kg** | Badi30 | resigned ❌ | 22/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/ppN1kp2/6p1/7r/8/P6P/1PP2Pb1/2K5 w - - 0 32">Link</a> | Blitz |
 | ghonjes23 | **vijay_kg** | timeout ❌ | 22/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/3q2p1/7p/pN1pB3/Pp2Q3/1B3P1r/1PP3K1/5R2 b - - 0 34">Link</a> | Blitz |
-| Misolfa | **vijay_kg** | repetition ⏸️ | 10/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R4/8/8/4K3/2r5/2k5/8/8 b - - 26 50">Link</a> | Blitz |
-| will1am21 | **vijay_kg** | checkmated ❌ | 1/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5N2/6pn/r6k/7R/7K/8/6P1/8 b - - 0 51">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
