@@ -43,11 +43,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1352 | 1109 | 669 |
+| Current | 1352 | 1117 | 669 |
 | Best | 1431 | 1196 | 882 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **vijay_kg** | Ong93 | win 🥇 | 12/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4R1k1/5pp1/5b1p/5B2/8/1PPP4/1r3PPP/6K1 b - - 3 34">Link</a> | Blitz |
 | Satheesh_11 | **vijay_kg** | win 🥇 | 11/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/1k5p/8/2R1B1p1/5bP1/PPP2P1P/3r2K1 w - - 0 33">Link</a> | Blitz |
 | **vijay_kg** | Satheesh_11 | win 🥇 | 11/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4bkr/ppp3pp/2n1Q3/4p3/8/8/PPPP1PPP/RNB1K2R b KQ - 0 10">Link</a> | Blitz |
 | Satheesh_11 | **vijay_kg** | win 🥇 | 11/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2kb1r/pp3ppp/2p1bp2/8/8/1P1P4/P1PBQPPP/q1KR1BNR w kq - 5 13">Link</a> | Blitz |
@@ -57,6 +58,5 @@
 | **vijay_kg** | Satheesh_11 | win 🥇 | 11/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3r4/3PPRk1/3K4/4N3/8/8/8 b - - 2 57">Link</a> | Bullet |
 | **vijay_kg** | Satheesh_11 | resigned ❌ | 11/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/p3bppp/1n4b1/1Bpnp3/4N3/4B3/PP1R1PPP/R5K1 b - - 1 18">Link</a> | Bullet |
 | jobb498 | **vijay_kg** | resigned ❌ | 7/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r5k/8/p2bp1Q1/5n2/8/7P/PPP2PP1/2R1R1K1 b - - 0 24">Link</a> | Blitz |
-| undefeated609 | **vijay_kg** | timeout ❌ | 2/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp6/2b3p1/6k1/2r5/2N5/2K3PR/5R2 b - - 6 36">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
