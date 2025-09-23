@@ -43,11 +43,14 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1352 | 1063 | 669 |
+| Current | 1352 | 1072 | 669 |
 | Best | 1431 | 1196 | 882 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **vijay_kg** | mo_al_yamany | resigned ❌ | 22/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/p4ppp/1p6/2p5/8/8/P3RPPP/3r2K1 w - - 1 30">Link</a> | Blitz |
+| **vijay_kg** | boris1996 | win 🥇 | 22/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/1p3p1q/p3p3/1N4b1/6P1/2Q5/PPPr4/1K3R2 b - - 1 28">Link</a> | Blitz |
+| **vijay_kg** | Shammv | win 🥇 | 22/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k1nr/pp3p1p/3p2p1/1Np5/4P3/1P6/PbP2PPP/1R1Q1RK1 b kq - 1 13">Link</a> | Blitz |
 | raufrehim | **vijay_kg** | timeout ❌ | 21/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/5Rpp/1p2p3/pqb1N3/6P1/5Q1P/5P2/6K1 b - - 0 29">Link</a> | Blitz |
 | barimaxx | **vijay_kg** | timeout ❌ | 15/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/R4ppk/4p2p/3p4/8/P1q5/6PP/6NK b - - 1 31">Link</a> | Blitz |
 | **vijay_kg** | A7winn | timeout ❌ | 15/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rr2/pp5k/2pq1pnP/5Q2/4P1P1/1PN5/P1P5/1K5R w - - 2 29">Link</a> | Blitz |
@@ -55,8 +58,5 @@
 | NILO_FR | **vijay_kg** | timeout ❌ | 14/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/3r2pp/6p1/P1Pp4/1Qn3P1/7P/5PK1/R7 b - - 2 33">Link</a> | Blitz |
 | **vijay_kg** | AndrisDzudzilo | abandoned  | 14/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1r2/ppp2pkp/5np1/4p3/3nP3/2NB1b1P/PPPQ1PP1/2KR3R w - - 0 13">Link</a> | Blitz |
 | AndrisDzudzilo | **vijay_kg** | win 🥇 | 14/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2r1k1/p4ppp/1q2p2b/2pp4/3N4/1P3B2/P1R2PPP/3Q2K1 w - - 0 30">Link</a> | Blitz |
-| **vijay_kg** | ngtime | resigned ❌ | 13/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2r1k1/pp3pp1/3q1n1p/1n1pN3/6b1/2Q5/PP1B1PPP/R4RK1 w - - 0 17">Link</a> | Blitz |
-| M4astr | **vijay_kg** | resigned ❌ | 13/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/pp4pk/1b1B1p1p/8/3p4/7P/PPP3P1/7K b - - 0 31">Link</a> | Blitz |
-| **vijay_kg** | KDjenaan | checkmated ❌ | 13/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppp2ppp/2p5/2b5/2B1P3/2NP1P1b/PPP1QPqP/R1B2R1K w - - 5 15">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
