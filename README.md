@@ -43,11 +43,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1352 | 1084 | 738 |
+| Current | 1352 | 1092 | 738 |
 | Best | 1431 | 1196 | 882 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| xenofontobychakin | **vijay_kg** | win 🥇 | 4/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3rp1k1/1p6/1Pp2R2/6p1/4R1P1/5K1r w - - 1 62">Link</a> | Blitz |
 | **vijay_kg** | tux4ever | timeout ❌ | 3/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6rk/6p1/p4p1p/5Q2/4R1K1/6P1/PP3P1P/3q4 w - - 10 36">Link</a> | Blitz |
 | **vijay_kg** | vldtrz | timeout ❌ | 3/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3q4/pp1P1bp1/5pkp/8/8/1P4P1/P4P1P/3R2K1 w - - 1 35">Link</a> | Blitz |
 | **vijay_kg** | aftp12 | win 🥇 | 3/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=b1k5/b6p/p2N3n/Bp4R1/2pp1P2/P7/BP1K1P1P/4r3 b - - 0 29">Link</a> | Blitz |
@@ -57,6 +58,5 @@
 | maxachoacho | **vijay_kg** | checkmated ❌ | 31/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q3/5R2/p4kpp/1p2p1q1/1P4P1/r4P2/7P/6K1 b - - 6 41">Link</a> | Blitz |
 | **vijay_kg** | Artem0800777 | timeout ❌ | 30/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k1r3/p1p3pp/5q2/2N5/3R4/8/1PP4P/1K1R4 w - - 4 31">Link</a> | Blitz |
 | Maegzrun | **vijay_kg** | timeout ❌ | 30/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7R/8/1p6/7P/5p2/1P3kn1/2P5/1K6 b - - 0 50">Link</a> | Blitz |
-| **vijay_kg** | Coutchin | win 🥇 | 30/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/ppq3nP/4p3/3p4/2rP4/P1P2Q2/5PP1/R1R3K1 b - - 0 30">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
