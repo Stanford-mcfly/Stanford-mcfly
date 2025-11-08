@@ -48,6 +48,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Satheesh_11 | **vijay_kg** | checkmated ❌ | 7/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6k/4R1Q1/7p/p7/5P2/6P1/6KP/8 b - - 0 45">Link</a> | Blitz |
 | **vijay_kg** | FriendOfDogs | timeout ❌ | 5/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5pk1/p7/Pb1BP3/2pK3P/8/8 w - - 4 57">Link</a> | Blitz |
 | xenofontobychakin | **vijay_kg** | win 🥇 | 4/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3rp1k1/1p6/1Pp2R2/6p1/4R1P1/5K1r w - - 1 62">Link</a> | Blitz |
 | **vijay_kg** | tux4ever | timeout ❌ | 3/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6rk/6p1/p4p1p/5Q2/4R1K1/6P1/PP3P1P/3q4 w - - 10 36">Link</a> | Blitz |
@@ -57,6 +58,5 @@
 | **vijay_kg** | marcvereijken | win 🥇 | 3/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qr1k1/ppp2ppp/2np4/3B4/4N3/1Q3N1P/PP3PP1/R4RK1 b - - 0 14">Link</a> | Blitz |
 | MarjonaBozorova | **vijay_kg** | win 🥇 | 2/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/p4p2/2p1p3/3p4/4bQ2/7P/P1P2Pq1/R3R1K1 w - - 0 21">Link</a> | Blitz |
 | maxachoacho | **vijay_kg** | checkmated ❌ | 31/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q3/5R2/p4kpp/1p2p1q1/1P4P1/r4P2/7P/6K1 b - - 6 41">Link</a> | Blitz |
-| **vijay_kg** | Artem0800777 | timeout ❌ | 30/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k1r3/p1p3pp/5q2/2N5/3R4/8/1PP4P/1K1R4 w - - 4 31">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
