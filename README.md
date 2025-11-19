@@ -43,11 +43,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1352 | 1094 | 738 |
+| Current | 1352 | 1085 | 738 |
 | Best | 1431 | 1196 | 882 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| moosewine | **vijay_kg** | checkmated ❌ | 18/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6N1/8/7p/7k/6Q1/5K2/8 b - - 1 54">Link</a> | Blitz |
 | **vijay_kg** | Marleduc | win 🥇 | 17/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/ppp3p1/3b3p/8/8/5P1q/P1P1Q3/R2R2K1 b - - 1 30">Link</a> | Blitz |
 | fweening11167 | **vijay_kg** | win 🥇 | 17/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/p4kp1/3p1p2/1P1P1K1P/p1P5/5P2/8 w - - 0 46">Link</a> | Blitz |
 | CaptainHookVI | **vijay_kg** | abandoned  | 17/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/1pp1bppp/p1n2n2/3p4/3P2b1/3BBN1P/PPP2PP1/RN1Q1RK1 b - - 0 10">Link</a> | Blitz |
@@ -57,6 +58,5 @@
 | **vijay_kg** | Mattiboomboommat | win 🥇 | 16/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkb1r/pb3Qpp/2p5/n2np1N1/B7/8/PPPP1PPP/RNB1K2R b KQkq - 0 10">Link</a> | Blitz |
 | **vijay_kg** | meire40 | win 🥇 | 16/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=b4Q2/1k4p1/p2n2p1/Bp1n4/8/3P4/PPP3PP/2K4R b - - 0 32">Link</a> | Blitz |
 | ebedao | **vijay_kg** | win 🥇 | 16/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/p4pp1/1p1b1p1p/2n2q2/1P1B4/2P2N1P/P4PP1/4R1K1 w - - 0 21">Link</a> | Blitz |
-| efegatro61 | **vijay_kg** | win 🥇 | 16/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=B2q1b1k/6p1/1p5p/1p6/8/P1P4P/1P3PP1/5rK1 w - - 0 25">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
