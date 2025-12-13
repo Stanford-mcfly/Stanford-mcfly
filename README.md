@@ -43,11 +43,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1353 | 1003 | 738 |
+| Current | 1353 | 1011 | 738 |
 | Best | 1431 | 1196 | 882 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| BadBoyVENOM | **vijay_kg** | win 🥇 | 12/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=b5k1/5pp1/p2Q1b1p/Np6/1P6/P3P1B1/5PPP/2q3K1 w - - 2 29">Link</a> | Blitz |
 | **vijay_kg** | Wanzel_187 | win 🥇 | 10/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p1kp2/8/pB6/3RP3/P4P2/1PP3PP/2K5 b - - 0 33">Link</a> | Blitz |
 | Reguitar12 | **vijay_kg** | timeout ❌ | 28/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4r1p1/6P1/4k2P/5RK1/8/8 b - - 8 57">Link</a> | Blitz |
 | **vijay_kg** | mateuszpocz | checkmated ❌ | 28/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/p2p1ppp/bp2pn2/1N2q3/Pb6/5nP1/1PPBNP1P/R2QKB1R w KQkq - 3 13">Link</a> | Blitz |
@@ -57,6 +58,5 @@
 | ThatsTheTheory | **vijay_kg** | checkmated ❌ | 28/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/3b1pQp/2p1p1p1/p1np2qN/1pP5/1P2P3/P2P1PPP/1BR2RK1 b - - 2 18">Link</a> | Blitz |
 | **vijay_kg** | quackus008 | resigned ❌ | 28/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1k1q3p/6p1/8/1n6/4B3/5PPP/R5K1 w - - 0 39">Link</a> | Blitz |
 | **vijay_kg** | safarudin17 | win 🥇 | 28/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kQ2/pp1q3p/2n3p1/2B5/2B5/5N2/P1P2PPP/5RK1 b - - 0 22">Link</a> | Blitz |
-| xZaheerKhanx | **vijay_kg** | timeout ❌ | 28/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/3k1pp1/p1pP2P1/2P2K2/8/P7/8 b - - 0 47">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
