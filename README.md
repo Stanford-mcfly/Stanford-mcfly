@@ -43,11 +43,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1353 | 1011 | 729 |
+| Current | 1353 | 1019 | 729 |
 | Best | 1431 | 1196 | 882 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **vijay_kg** | Outra11 | win 🥇 | 17/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1p5R/1kp4P/8/1P4r1/1KP5/8 b - - 0 50">Link</a> | Blitz |
 | bachinobi | **vijay_kg** | win 🥇 | 16/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/5pp1/pp2p2p/7n/P7/6P1/2r3qP/R3R2K w - - 2 29">Link</a> | Bullet |
 | **vijay_kg** | tyrone5520 | resigned ❌ | 16/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/ppp2ppp/2p5/8/2BqP3/3P4/PPP2nPP/RNBQ3K w kq - 3 11">Link</a> | Bullet |
 | KlinikEkstra | **vijay_kg** | timeout ❌ | 16/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/5pp1/1B2p2p/3N3P/rn6/5N2/1K3PP1/7R b - - 0 30">Link</a> | Bullet |
@@ -57,6 +58,5 @@
 | BadBoyVENOM | **vijay_kg** | win 🥇 | 12/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=b5k1/5pp1/p2Q1b1p/Np6/1P6/P3P1B1/5PPP/2q3K1 w - - 2 29">Link</a> | Blitz |
 | **vijay_kg** | Wanzel_187 | win 🥇 | 10/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p1kp2/8/pB6/3RP3/P4P2/1PP3PP/2K5 b - - 0 33">Link</a> | Blitz |
 | Reguitar12 | **vijay_kg** | timeout ❌ | 28/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4r1p1/6P1/4k2P/5RK1/8/8 b - - 8 57">Link</a> | Blitz |
-| **vijay_kg** | mateuszpocz | checkmated ❌ | 28/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/p2p1ppp/bp2pn2/1N2q3/Pb6/5nP1/1PPBNP1P/R2QKB1R w KQkq - 3 13">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
