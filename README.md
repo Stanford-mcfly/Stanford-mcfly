@@ -43,11 +43,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1389 | 1089 | 729 |
+| Current | 1389 | 1084 | 729 |
 | Best | 1431 | 1196 | 882 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **vijay_kg** | Shyshutanand | repetition ⏸️ | 23/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/1p4pB/p7/8/5p1R/5P2/q1P3PP/4RK2 b - - 9 35">Link</a> | Blitz |
+| timber5030 | **vijay_kg** | timeout ❌ | 23/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/1q3p2/p5pp/R7/2N5/6PP/Q4P1K/8 b - - 13 45">Link</a> | Blitz |
 | **vijay_kg** | Bahodir2301 | checkmated ❌ | 21/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1b1r/Qpp1pp2/6p1/8/2PP4/4Bp2/PP3PqP/R4R1K w - - 3 17">Link</a> | Blitz |
 | ubr2024 | **vijay_kg** | win 🥇 | 21/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5ppp/2p5/3p1p2/3Pqb2/1NPK4/PP2rPR1/6R1 w - - 12 24">Link</a> | Blitz |
 | Amirabbas-1986 | **vijay_kg** | win 🥇 | 21/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2B3k1/5p1p/2b1p3/p7/6Pp/P3P2n/4K3/8 w - - 0 39">Link</a> | Blitz |
@@ -56,7 +58,5 @@
 | **vijay_kg** | dldar6565 | win 🥇 | 20/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2r1kQ/5p2/4q1p1/pp6/7R/2P5/PP3PPP/3R2K1 b - - 4 32">Link</a> | Blitz |
 | CrimpsOnSlopers | **vijay_kg** | checkmated ❌ | 20/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b2rk1/5p1Q/5rp1/ppqp4/2p1P3/2P2R2/PPB1K1P1/7R b - - 0 29">Link</a> | Blitz |
 | nishanth_nair | **vijay_kg** | win 🥇 | 19/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rr1k1/pp4pp/6q1/6B1/1P2n3/P5PP/5R2/2R2QK1 w - - 8 38">Link</a> | Blitz |
-| KotikSkala | **vijay_kg** | win 🥇 | 19/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pbN1bpp1/1p2pn1p/8/8/3P3P/PPPQBPq1/1R2R1K1 w - - 0 17">Link</a> | Blitz |
-| **vijay_kg** | Megafox77 | win 🥇 | 19/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1Q6/8/3K4/Q7/8/k7/8 b - - 6 83">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
