@@ -55,7 +55,7 @@
 | **vijay_kg** | Daivys | resigned ❌ | 31/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6pk/5p1p/4p3/pp6/3RK3/6PP/r7 w - - 0 40">Link</a> | Blitz |
 | eddyguerreiro | **vijay_kg** | resigned ❌ | 31/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R7/7p/5kp1/1p6/5P2/6P1/6KP/8 b - - 0 45">Link</a> | Blitz |
 | **vijay_kg** | simonlace | win 🥇 | 30/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2k4/ppp3Q1/2p1r3/6Bp/4P1nq/3P3P/PPP2bP1/RN3R1K b - - 1 14">Link</a> | Blitz |
-| **vijay_kg** | Tidan-16 | resigned ❌ | 30/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2r2k1/pp4pp/2p1pp2/8/8/1P4RP/q3NPP1/6K1 w - - 0 29">Link</a> | Blitz |
+| **vijay_kg** | tDanieI | resigned ❌ | 30/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2r2k1/pp4pp/2p1pp2/8/8/1P4RP/q3NPP1/6K1 w - - 0 29">Link</a> | Blitz |
 | Attilio1111 | **vijay_kg** | resigned ❌ | 30/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/p2p3R/1p1Kp3/7p/P2P4/2P5/1P6/8 b - - 5 40">Link</a> | Blitz |
 | kirsebom | **vijay_kg** | win 🥇 | 30/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r1r3/pb3pkp/1p2p1p1/3p4/1P1N1Q2/2P3P1/q4P1K/2R1R3 w - - 0 27">Link</a> | Blitz |
 
