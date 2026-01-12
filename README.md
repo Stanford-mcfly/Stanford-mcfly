@@ -43,20 +43,20 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1365 | 1143 | 707 |
+| Current | 1365 | 1143 | 737 |
 | Best | 1431 | 1196 | 882 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **vijay_kg** | victorcg10 | timeout ❌ | 11/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/pp3p1p/6p1/3p1p2/3Pn3/1Q4PP/PP3PK1/2r5 w - - 3 25">Link</a> | Bullet |
+| kik0kik0 | **vijay_kg** | timeout ❌ | 11/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3rk1/pp2p1b1/1q2b1p1/2p5/3Pp1P1/2P1B3/PP1N1P2/RN1QK2R b KQ - 1 15">Link</a> | Bullet |
+| **vijay_kg** | elpapu0619 | win 🥇 | 11/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2r1k/p1pp3Q/1pn2p2/3q4/8/P1BB4/1PP2P1P/2KR4 b - - 2 20">Link</a> | Bullet |
+| **vijay_kg** | 7amodyy5 | win 🥇 | 11/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kb1Q/ppp1pn2/2n3B1/6p1/8/2N5/PPP2PPP/R4RK1 w q - 0 13">Link</a> | Bullet |
+| timkroko | **vijay_kg** | resigned ❌ | 11/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/7p/8/6N1/r7/2R1P1P1/5P1P/2R3K1 b - - 0 36">Link</a> | Bullet |
+| Nox68 | **vijay_kg** | checkmated ❌ | 11/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R4Qk1/5p1p/5np1/3p4/1P1P4/2q5/2P2PPP/6K1 b - - 0 23">Link</a> | Bullet |
+| ihtisamul | **vijay_kg** | win 🥇 | 11/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/pbp1ppbp/1p4p1/8/3P1B1P/1nP1PNP1/P4PB1/R3K2R w KQ - 0 13">Link</a> | Bullet |
+| **vijay_kg** | Magnus-Greel | win 🥇 | 11/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/ppNbpppp/2p1q3/8/2N3n1/P7/1PP1BPPP/R1BQ1RK1 b kq - 1 13">Link</a> | Bullet |
+| tello988 | **vijay_kg** | win 🥇 | 11/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/p2n1pbp/1p4p1/8/3N1n2/2P1R1N1/PP3PqP/R2Q2K1 w - - 0 19">Link</a> | Bullet |
 | **vijay_kg** | Wegdan-ELghonimy | resigned ❌ | 9/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/6qk/8/8/8/3P3P/2P2PP1/q3Q1K1 w - - 0 42">Link</a> | Rapid |
-| **vijay_kg** | izalddin | abandoned  | 9/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkb1r/3p1pp1/2b1pn1p/8/p2P4/1pP2N2/1P1BBPPP/R2Q1RK1 w kq - 0 16">Link</a> | Rapid |
-| **vijay_kg** | 17Hero | timeout ❌ | 9/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/p3b3/4kp2/2p1B3/2P1P2n/1P5P/P5r1/4RR1K w - - 1 33">Link</a> | Bullet |
-| slf75 | **vijay_kg** | win 🥇 | 9/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1b1r2k1/3r1ppp/4p3/2pp4/6Q1/2N5/PPP3Pq/3R1R1K w - - 0 27">Link</a> | Rapid |
-| ghilbhets | **vijay_kg** | win 🥇 | 9/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k4r2/1p5p/p1b3p1/1P6/P7/2Q5/5Pq1/3r1BK1 w - - 0 36">Link</a> | Blitz |
-| Ilyas989 | **vijay_kg** | win 🥇 | 9/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/r7/6p1/5b1p/3B1K1P/2P5/8/8 w - - 0 47">Link</a> | Blitz |
-| **vijay_kg** | saintkor | win 🥇 | 9/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kB2nr/ppp2pp1/3p4/3B4/4P3/2P5/PP3KPP/R7 b - - 0 20">Link</a> | Blitz |
-| **vijay_kg** | Giuse11 | win 🥇 | 9/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p3k2/p4n2/4R3/P5r1/1P1R2P1/2P2P1P/6K1 b - - 0 31">Link</a> | Blitz |
-| **vijay_kg** | sgsvihar123 | win 🥇 | 9/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/3b1p1p/p4bp1/N7/2P5/7P/R1P2PP1/3R2K1 b - - 10 30">Link</a> | Blitz |
-| NotQuiteKasparov | **vijay_kg** | win 🥇 | 7/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r1k/1b4pp/pp1p1b2/2p5/2P5/NP1BP1P1/P4PqP/1R1Q1RK1 w - - 1 19">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
