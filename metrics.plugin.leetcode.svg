@@ -68,7 +68,7 @@
                         <div class="label advanced"><span class="dot">⬤</span> Monotonic Stack <span class="count">x11</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Divide and Conquer <span class="count">x10</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Trie <span class="count">x8</span></div>
-                        <div class="label advanced"><span class="dot">⬤</span> Union Find <span class="count">x8</span></div>
+                        <div class="label advanced"><span class="dot">⬤</span> Union-Find <span class="count">x8</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Shortest Path <span class="count">x6</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Segment Tree <span class="count">x4</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Monotonic Queue <span class="count">x4</span></div>
