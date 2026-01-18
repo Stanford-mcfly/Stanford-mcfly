@@ -43,11 +43,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1365 | 1131 | 750 |
+| Current | 1365 | 1123 | 750 |
 | Best | 1431 | 1196 | 882 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| kuat91 | **vijay_kg** | resigned ❌ | 17/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2k1b1r/4nNp1/p3p2p/2Ppq3/Q7/P1P1B2P/5PP1/Rb2K2R b KQ - 0 21">Link</a> | Blitz |
 | **vijay_kg** | Sasae90 | checkmated ❌ | 15/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/p2p1ppp/4p3/2p1P3/5n2/3BQ3/PPP2PqP/R3R1K1 w - - 0 18">Link</a> | Blitz |
 | JalolovBM | **vijay_kg** | timeout ❌ | 15/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1r4/pp2R3/2q4r/4P3/1Q1P4/2P5/PP4PP/5RK1 b - - 2 31">Link</a> | Blitz |
 | **vijay_kg** | jinanshi | win 🥇 | 15/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6r/1Qkqnpbp/3N2p1/4P3/2B2PP1/7P/PPP5/2K4R b - - 10 26">Link</a> | Blitz |
@@ -57,6 +58,5 @@
 | nishinhoya | **vijay_kg** | win 🥇 | 14/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/7p/6p1/4pp1P/6K1/4qPP1/8/8 w - - 0 48">Link</a> | Blitz |
 | **vijay_kg** | szachowymistrzu | win 🥇 | 13/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pp6/1qn1b1QB/2b5/8/5N2/PPP2PPP/R4RK1 b - - 0 15">Link</a> | Blitz |
 | 90kizim | **vijay_kg** | win 🥇 | 13/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4k1r/p2pnp1p/2pqp1p1/8/4P3/3B4/P1P3PP/1R1K3R w - - 0 21">Link</a> | Blitz |
-| **vijay_kg** | P095ax | resigned ❌ | 13/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/ppp1n1kp/3rb1p1/8/8/3B1R2/PqP2PPP/4R1K1 w - - 0 20">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
