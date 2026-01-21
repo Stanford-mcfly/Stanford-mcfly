@@ -48,6 +48,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **vijay_kg** | Anthalvi | timeout ❌ | 20/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/KP2R2p/6p1/5p2/P4P2/8/1r2p1PP/5k2 w - - 3 54">Link</a> | Blitz |
+| tienvv | **vijay_kg** | win 🥇 | 20/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/7p/5Qp1/2rp4/P7/2P2R1P/1q3PP1/R5K1 w - - 3 39">Link</a> | Blitz |
 | **vijay_kg** | leoyt78111 | checkmated ❌ | 19/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/ppp2ppp/4pn2/5BR1/8/6Q1/PPP2PPP/RNBq2K1 w - - 1 13">Link</a> | Blitz |
 | Muzaffarbek1234556 | **vijay_kg** | checkmated ❌ | 19/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6Rk/5p1p/4p3/p2pPr2/P1pP4/7P/1r3P1K/6R1 b - - 1 36">Link</a> | Blitz |
 | **vijay_kg** | Abdbins10 | win 🥇 | 19/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1br2k1/pp3pQp/1q3Pp1/3pp3/8/8/PP2NPPP/R4RK1 b - - 1 18">Link</a> | Blitz |
@@ -56,7 +58,5 @@
 | Bmed10 | **vijay_kg** | win 🥇 | 19/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p1p/1pN3p1/1Pp5/P1n5/5P1P/6P1/6K1 w - - 0 36">Link</a> | Blitz |
 | szaboandras0922 | **vijay_kg** | win 🥇 | 19/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pb3p2/1p4pp/2P5/3p4/2P1P3/P1Q2PqP/RB2R1K1 w - - 0 20">Link</a> | Blitz |
 | franeqlol | **vijay_kg** | win 🥇 | 19/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2rk1/pp3ppp/4p3/4Pb1B/2P5/2qn2P1/P4P1P/R5KR w - - 0 25">Link</a> | Blitz |
-| **vijay_kg** | GRANDMASTER_AKJ | win 🥇 | 19/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/1pq1rpp1/p1n1pn1p/b2P4/2P5/P1N1RB1P/1B3PP1/2QR2K1 b - - 0 21">Link</a> | Blitz |
-| **vijay_kg** | rajansapra | win 🥇 | 18/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r1kr2/R3Q3/1p1p2p1/1q2p3/4P3/5P2/2P3PP/3R2K1 b - - 0 35">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
