@@ -43,11 +43,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1365 | 1230 | 750 |
+| Current | 1365 | 1222 | 750 |
 | Best | 1431 | 1272 | 882 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **vijay_kg** | ManarRook | resigned ❌ | 24/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p4ppp/8/8/2P5/PP5P/5PPK/2qRr3 b - - 2 32">Link</a> | Blitz |
 | Abhinav181 | **vijay_kg** | win 🥇 | 23/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/3pppbp/r5p1/3P4/4N1n1/1R3N2/P1P2PPP/6K1 w - - 2 23">Link</a> | Blitz |
 | **vijay_kg** | Abhinav181 | win 🥇 | 23/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/3k1p1p/5R2/p7/P1P5/1P5P/3r1PP1/4R1K1 b - - 0 30">Link</a> | Blitz |
 | Abhinav181 | **vijay_kg** | win 🥇 | 23/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3rk1/4ppbp/Q5p1/3p4/Nq2nB1P/1P6/P1p2P1N/1K1R4 w - - 0 23">Link</a> | Blitz |
@@ -57,6 +58,5 @@
 | **vijay_kg** | JaJu99 | win 🥇 | 23/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1k/ppp2Qpp/4R3/8/8/7P/5bP1/5R1K b - - 0 28">Link</a> | Blitz |
 | **vijay_kg** | KnightmareGambit313 | win 🥇 | 23/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=N2k4/p2bb1pp/8/2pnN3/1pP5/3P4/1P3PPP/2B2RK1 b - c3 0 21">Link</a> | Blitz |
 | KnightmareGambit313 | **vijay_kg** | win 🥇 | 23/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/5pp1/4p3/3pP3/3P4/4n3/6q1/7K w - - 0 35">Link</a> | Blitz |
-| **vijay_kg** | KnightmareGambit313 | win 🥇 | 23/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2Q5/2k5/pppN4/4P3/7P/PPP3P1/6K1 b - - 3 33">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
