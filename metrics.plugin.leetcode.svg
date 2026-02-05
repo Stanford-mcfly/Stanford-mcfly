@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="39.66544885177453 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">462</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="39.751304801670145 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">463</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3832</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -37,8 +37,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="45.02797202797203 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">274</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="45.19230769230769 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">275</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2002</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -67,7 +67,7 @@
                         <div class="label advanced"><span class="dot">⬤</span> Backtracking <span class="count">x20</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Monotonic Stack <span class="count">x11</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Divide and Conquer <span class="count">x10</span></div>
-                        <div class="label advanced"><span class="dot">⬤</span> Trie <span class="count">x8</span></div>
+                        <div class="label advanced"><span class="dot">⬤</span> Trie <span class="count">x9</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Union-Find <span class="count">x8</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Shortest Path <span class="count">x6</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Segment Tree <span class="count">x4</span></div>
@@ -82,6 +82,15 @@
                         </svg>
                         Recent submissions
                     </h2>
+                    <div class="field">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                        </svg>
+                        <div class="infos">
+                            <div class="title">Longest Word in Dictionary</div>
+                            <div class="date">5 Feb 2026</div>
+                        </div>
+                    </div>
                     <div class="field">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
@@ -115,15 +124,6 @@
                         </svg>
                         <div class="infos">
                             <div class="title">Count Ways To Build Good Strings</div>
-                            <div class="date">3 Feb 2026</div>
-                        </div>
-                    </div>
-                    <div class="field">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                        </svg>
-                        <div class="infos">
-                            <div class="title">Minimum Absolute Difference</div>
                             <div class="date">3 Feb 2026</div>
                         </div>
                     </div>
