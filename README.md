@@ -43,11 +43,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1365 | 1293 | 955 |
+| Current | 1365 | 1285 | 955 |
 | Best | 1431 | 1382 | 971 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Flokihr | **vijay_kg** | checkmated ❌ | 11/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1R1k1/pp3rpp/1q6/6B1/2B5/8/PP3PPP/RN4K1 b - - 1 14">Link</a> | Blitz |
 | c0yneflip | **vijay_kg** | resigned ❌ | 10/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1N6/p5k1/6pp/8/2PR4/P6P/7K/8 b - - 0 41">Link</a> | Blitz |
 | **vijay_kg** | SalmanEee | checkmated ❌ | 10/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/p1Q1b1p1/2N1pk2/6n1/8/8/PP3PPP/3q1K1R w - - 0 27">Link</a> | Blitz |
 | **vijay_kg** | tukangkodak | win 🥇 | 10/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5KQk/8/6Pp/7n/8/8/8 b - - 1 63">Link</a> | Blitz |
@@ -57,6 +58,5 @@
 | black_soul_008 | **vijay_kg** | win 🥇 | 28/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/7p/8/p3kp2/P2Npp1P/2P5/5K2/8 w - - 2 34">Link</a> | Rapid |
 | black_soul_008 | **vijay_kg** | win 🥇 | 28/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/4k2p/4p3/8/8/r7/2K1r1b1 w - - 2 50">Link</a> | Rapid |
 | **vijay_kg** | Piotrb18 | timeout ❌ | 27/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6rk/p3Q1pp/5p2/8/8/3q4/6P1/5R1K w - - 0 39">Link</a> | Blitz |
-| kairatov09kz | **vijay_kg** | timeout ❌ | 27/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4r1P1/7K/pB6/Pk6/8/8/8 b - - 0 75">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
