@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="39.20681701691441 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">465</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="39.29113275243465 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">466</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3902</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -37,8 +37,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="44.62928501469148 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">277</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="44.79040156709109 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">278</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2042</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -87,6 +87,15 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
+                            <div class="title">Minimum Absolute Distance Between Mirror Pairs</div>
+                            <div class="date">17 Apr 2026</div>
+                        </div>
+                    </div>
+                    <div class="field">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                        </svg>
+                        <div class="infos">
                             <div class="title">Balanced Binary Tree</div>
                             <div class="date">8 Feb 2026</div>
                         </div>
@@ -116,15 +125,6 @@
                         <div class="infos">
                             <div class="title">Minimum Removals to Balance Array</div>
                             <div class="date">6 Feb 2026</div>
-                        </div>
-                    </div>
-                    <div class="field">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                        </svg>
-                        <div class="infos">
-                            <div class="title">Longest Word in Dictionary</div>
-                            <div class="date">5 Feb 2026</div>
                         </div>
                     </div>
                 </section>
