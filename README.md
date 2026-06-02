@@ -43,11 +43,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1365 | 1217 | 955 |
+| Current | 1365 | 1225 | 955 |
 | Best | 1431 | 1382 | 971 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Titou1977 | **vijay_kg** | win 🥇 | 1/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/5k1p/1pB1p1p1/1P6/8/7P/1P2q1P1/7K w - - 0 33">Link</a> | Blitz |
 | **vijay_kg** | Des1278 | timeout ❌ | 23/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k4r/ppp3p1/2b2q1p/5p2/2Nrn3/4Q1P1/PPP2PBP/2K4R w - - 0 19">Link</a> | Blitz |
 | Emmanuel_TerrenceJr | **vijay_kg** | win 🥇 | 23/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/pr3pp1/4p2p/R2p4/P2P4/4B1P1/5PKP/8 w - - 3 39">Link</a> | Blitz |
 | **vijay_kg** | DeckCheez | timeout ❌ | 18/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5R2/4p1k1/3p2p1/p1pbb1Pp/8/3BB3/r1PK4/8 w - - 6 36">Link</a> | Blitz |
@@ -57,6 +58,5 @@
 | **vijay_kg** | Somogy70 | resigned ❌ | 17/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p3pkp/p1n1rnp1/6r1/4p3/2P5/P1P2PPP/R3R1K1 w - - 0 27">Link</a> | Blitz |
 | WarpedGizmo | **vijay_kg** | win 🥇 | 17/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk2r/ppp1pp1p/2nP2p1/7n/8/1P3NP1/PbPP1P1P/RN1QKB1R w KQkq - 0 8">Link</a> | Blitz |
 | **vijay_kg** | koiravesi13 | resigned ❌ | 7/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/p3nppp/2p1p3/3pP1N1/b2P4/4B2P/Pq3PP1/R1R3K1 w - - 0 19">Link</a> | Blitz |
-| **vijay_kg** | Burdujel92 | win 🥇 | 7/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bk2r1/pp6/2p2Q1p/2Pq4/8/1P6/1P3PPP/R1B1R1K1 b - - 2 21">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
