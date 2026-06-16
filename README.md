@@ -43,11 +43,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1365 | 1168 | 955 |
+| Current | 1365 | 1161 | 955 |
 | Best | 1431 | 1382 | 971 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **vijay_kg** | johntas1987 | checkmated ❌ | 15/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1r2/1b3pb1/pp4pp/2p1n3/P2P2PN/1BP1P2P/1P3Q2/3R1RKq w - - 1 21">Link</a> | Blitz |
 | Vladok123888 | **vijay_kg** | checkmated ❌ | 12/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q2k/pb4pp/1pn5/6q1/2B2n2/1N6/PP3PPP/2R3K1 b - - 0 20">Link</a> | Blitz |
 | JosQunther | **vijay_kg** | checkmated ❌ | 12/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/p2R1krp/4p1p1/2p2p2/5P2/1P2P3/PqP3PP/6K1 b - - 4 29">Link</a> | Blitz |
 | **vijay_kg** | Amininhi | resigned ❌ | 12/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p3pp/5k2/8/1KP2PP1/7P/p7/8 w - - 0 44">Link</a> | Blitz |
@@ -57,6 +58,5 @@
 | **vijay_kg** | PolishChessEnjoyer2137 | win 🥇 | 10/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1b1r/Q4ppp/Bp6/2p1p3/5n2/2P2P2/PP1P3q/RNBK1R2 b - - 1 17">Link</a> | Blitz |
 | **vijay_kg** | cyannotteal | win 🥇 | 10/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/p4ppQ/1qpp3n/np2P3/3P4/5b2/PPBN1PPP/R3R1K1 b - - 0 17">Link</a> | Blitz |
 | Opchinor | **vijay_kg** | resigned ❌ | 8/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r1k3/6Q1/p2N1p2/1p5p/3P4/4P1P1/P4P1P/3n2K1 b - - 0 36">Link</a> | Blitz |
-| **vijay_kg** | sickjohnny | timeout ❌ | 8/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/5pp1/1pp4p/p7/1n1q4/1P5P/P2Q1PP1/4R1K1 w - - 0 32">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
