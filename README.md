@@ -43,20 +43,20 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1365 | 1139 | 955 |
+| Current | 1365 | 1175 | 955 |
 | Best | 1431 | 1382 | 971 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| winksp | **vijay_kg** | checkmated ❌ | 30/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q3Q1nr/B1qk2p1/3bp2p/3pp3/8/8/1PP2PPP/1N3RK1 b - - 2 21">Link</a> | Blitz |
+| **vijay_kg** | super_snappy | win 🥇 | 30/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/2pb2p1/1p3PQp/8/8/8/1PP3PP/5RK1 b - - 0 27">Link</a> | Blitz |
+| Sky1809 | **vijay_kg** | win 🥇 | 30/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/4q3/6pp/pppRn3/8/P2PP2P/1PPKQ1P1/8 w - - 0 28">Link</a> | Blitz |
+| **vijay_kg** | jogurt84 | win 🥇 | 30/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1b1r/Q1p1pppp/8/1B2n2b/1P6/2PPB2P/P4PP1/R3K2R w KQ - 2 20">Link</a> | Blitz |
+| alijunaidh | **vijay_kg** | win 🥇 | 30/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2rk1/6p1/p3p2p/1p2P1q1/4b1PP/1P6/PP3P2/1K1R3R w - - 0 25">Link</a> | Blitz |
+| Raj212121 | **vijay_kg** | win 🥇 | 30/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1r1k/pp3p2/7p/8/2B5/6R1/P1Q3PP/q6K w - - 0 26">Link</a> | Blitz |
+| **vijay_kg** | Devang_02 | win 🥇 | 30/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6nr/1pQ1kppp/pR2p3/8/8/7P/P4PP1/3R2K1 b - - 0 24">Link</a> | Blitz |
 | MediocreQuokka | **vijay_kg** | resigned ❌ | 27/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4k1p1/R7/p2p1P2/3P2K1/8/8/8 b - - 2 50">Link</a> | Blitz |
 | buztinmafia | **vijay_kg** | checkmated ❌ | 27/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/6R1/8/8/4p2k/7P/6PK/8 b - - 7 54">Link</a> | Blitz |
 | **vijay_kg** | CCCP88 | win 🥇 | 27/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b4r/ppp2Rpp/2kp4/1Q6/2Pq4/8/PPP2PPP/R5K1 b - - 9 21">Link</a> | Blitz |
-| karetaikuri | **vijay_kg** | win 🥇 | 27/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rnk1/1R3pp1/p3p2p/3pQ3/P2P2Pq/5r1P/2P2P2/4R1K1 w - - 3 21">Link</a> | Blitz |
-| **vijay_kg** | emilbro | timeout ❌ | 18/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/6p1/p2r2P1/1p4p1/3p4/8/P7/5RK1 w - - 2 36">Link</a> | Blitz |
-| E4_Esquire | **vijay_kg** | win 🥇 | 18/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/p5p1/bp2ppNr/3p4/6Q1/P1N5/1PP2PPq/R3RK2 w q - 2 19">Link</a> | Blitz |
-| mrclm_io | **vijay_kg** | timeout ❌ | 18/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rr1k1/pb1n1pp1/3B3p/1pP5/1P2P3/5P1P/P1R3P1/3R2K1 b - - 2 31">Link</a> | Blitz |
-| MrCrocodile99 | **vijay_kg** | checkmated ❌ | 17/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2br1nk1/2R3Qp/p5p1/1p1pPrN1/3P4/1P6/P4PP1/4R1K1 b - - 7 28">Link</a> | Blitz |
-| **vijay_kg** | Alhrk | timeout ❌ | 16/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/p2n2pp/2p2p2/P1P1p3/1pB1P3/6P1/5K1P/8 w - - 2 40">Link</a> | Blitz |
-| **vijay_kg** | ppawecio | win 🥇 | 16/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4k3/6p1/R1KP2P1/6Qp/8/8 b - - 0 56">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
