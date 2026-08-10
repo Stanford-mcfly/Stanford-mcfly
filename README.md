@@ -43,11 +43,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1365 | 1162 | 955 |
+| Current | 1365 | 1154 | 955 |
 | Best | 1431 | 1382 | 971 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Pratham_Saraf123 | **vijay_kg** | checkmated ❌ | 9/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q2k2/4Npp1/3P3p/1p6/1p6/P5P1/5P1P/3R2K1 b - - 2 34">Link</a> | Blitz |
 | enes2606 | **vijay_kg** | stalemate ⏸️ | 7/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/7P/7K/8/8/8/8/8 b - - 2 64">Link</a> | Blitz |
 | **vijay_kg** | bodd567 | win 🥇 | 7/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1q6/p6K/8/1k6/7P/1Q6/8 b - - 3 48">Link</a> | Blitz |
 | Dagwaa1234 | **vijay_kg** | timeout ❌ | 6/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1rb2rk1/5pp1/p2qp3/3pN1P1/2pPn3/2N4Q/PPP2P2/2KR3R b - - 2 24">Link</a> | Blitz |
@@ -57,6 +58,5 @@
 | **vijay_kg** | Sundrew71 | resigned ❌ | 5/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p6k/6pp/8/6P1/1P5P/P4K2/3q4 b - - 0 46">Link</a> | Blitz |
 | rambesimamora | **vijay_kg** | resigned ❌ | 2/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5ppk/7p/3p1Q2/1P6/3P4/1q2r1P1/2R3K1 b - - 4 36">Link</a> | Blitz |
 | surjyakm | **vijay_kg** | win 🥇 | 2/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2rq1rk1/1p1b1pp1/p1n1p2p/3pPn2/3P4/1N3N2/PPRQBPPP/3R2K1 w - - 4 16">Link</a> | Blitz |
-| **vijay_kg** | foxineyf8 | timeout ❌ | 1/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/4R3/p4pP1/1p2pqp1/2r5/PQ6/1P3PP1/4R1K1 w - - 0 31">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
