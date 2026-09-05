@@ -48,6 +48,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Vasanth_177 | **vijay_kg** | win 🥇 | 4/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p4p1p/4p1p1/2p5/P2pKPPP/1r3N2/4q3/1r6 w - - 0 29">Link</a> | Rapid |
 | **vijay_kg** | citizen-13 | timeout ❌ | 31/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3rk1/b4pq1/2p4p/p7/8/2p2P1P/PPB1Q3/1K5R w - - 2 30">Link</a> | Blitz |
 | rautakakkonen | **vijay_kg** | checkmated ❌ | 30/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3rk1/p3bppQ/1p6/3pP3/2qB1P2/1P3K1R/P5PP/RN6 b - - 2 25">Link</a> | Blitz |
 | LaBasselle | **vijay_kg** | resigned ❌ | 29/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4kr2/6R1/3p1p1p/p1pPp3/1pP1P3/1P6/P4PPP/R5K1 b - - 0 37">Link</a> | Blitz |
@@ -57,6 +58,5 @@
 | yndra86 | **vijay_kg** | win 🥇 | 28/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/3b1pp1/p3q2p/3pPn2/1p1P1QN1/1P6/P5PP/4R1K1 w - - 4 31">Link</a> | Blitz |
 | **vijay_kg** | wazzex | win 🥇 | 28/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/5pp1/1p2p3/3pPn2/3P4/5Q2/1q3PPN/R1rR2K1 b - - 8 35">Link</a> | Blitz |
 | zahirbashirov1962 | **vijay_kg** | timeout ❌ | 28/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r5k/6p1/5p1p/3q4/3r4/1P2Q1Pb/P4R1P/4R1K1 b - - 3 35">Link</a> | Blitz |
-| **vijay_kg** | Alajmi_0 | resigned ❌ | 28/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/p2q1pp1/1pp3p1/2bp4/5B2/2PQ1N1P/PP3nP1/3R1K2 w - - 0 28">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
