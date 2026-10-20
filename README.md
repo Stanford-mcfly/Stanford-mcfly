@@ -48,6 +48,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| ChesterCheckers1 | **vijay_kg** | insufficient ⏸️ | 19/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/4k3/6K1/8 b - - 0 80">Link</a> | Blitz |
 | Foubri | **vijay_kg** | resigned ❌ | 10/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5kPK/8/8/8/8/8/8 b - - 2 64">Link</a> | Blitz |
 | **vijay_kg** | Thisisnotcheckers2 | insufficient ⏸️ | 6/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7K/8/8/8/8/8/1k6 b - - 0 67">Link</a> | Blitz |
 | Sinwar-23 | **vijay_kg** | resigned ❌ | 6/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/p4pp1/b1R1q2p/3pNn2/1P1P4/P3P1P1/3Q1PBP/6K1 b - - 0 26">Link</a> | Blitz |
@@ -57,6 +58,5 @@
 | **vijay_kg** | mostaf-hamed | resigned ❌ | 1/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/2P2pp1/5b1p/1nR5/8/6P1/5PKP/8 b - - 2 40">Link</a> | Blitz |
 | **vijay_kg** | jsjshshwhsh | timeout ❌ | 1/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=B7/6pp/p2k4/1pp5/1n1p4/3P2PP/1P3PK1/8 w - - 2 48">Link</a> | Blitz |
 | Dave-Bellion | **vijay_kg** | win 🥇 | 30/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/1b3pp1/p2bpn1p/8/3p4/P2N3P/1PPBNPq1/R2Q1RK1 w - - 0 22">Link</a> | Blitz |
-| **vijay_kg** | Dave-Bellion | win 🥇 | 30/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3k2/ppp2Qpp/8/8/2B5/2N5/P1q3PP/R6K b - - 2 18">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
